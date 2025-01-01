@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Merve!
 
 ### 👩‍💻 About Me
 - 🎓 **Background**: Sociologist with a passion for technology and innovation.
