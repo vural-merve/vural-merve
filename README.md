@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**vural-merve/vural-merve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+- 🎓 **Background**: Sociologist with a passion for technology and innovation.
+- 🤖 **Interests**: AI research, data analysis, and software development.
+- 📚 **Learning**: Currently diving deep into advanced AI and machine learning concepts.
+- 🌍 **Goal**: Leveraging technology to create meaningful solutions for global challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools I Use
+- **Languages**: [Python, JavaScript]
+- **Tools**: [TensorFlow, NestJS, Kafka, Grafana]
+- **Frameworks**: [React, Next.js]
+
+---
+
+### 📈 My GitHub Stats
+![Merve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vural-merve&show_icons=true&theme=radical)
